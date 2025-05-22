@@ -1,3 +1,7 @@
+
 HTML
 title
+html
+header
+footer
 body
